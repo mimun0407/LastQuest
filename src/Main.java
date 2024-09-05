@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TelexCounter {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhập vào chữ cần phân tích: ");
